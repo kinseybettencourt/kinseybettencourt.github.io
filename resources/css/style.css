@@ -1,0 +1,32 @@
+header, main {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    background-color: black;
+    font-family: Verdana;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+main h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.caption {
+    font-size: 21px;
+    color: gray;
+}
